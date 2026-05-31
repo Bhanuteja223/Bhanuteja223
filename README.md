@@ -70,13 +70,6 @@ I also enjoy sharing my journey through content creation on platforms like YouTu
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanuteja223&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanuteja223&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="GitHub Streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuteja223&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top Languages" />
 </p>
