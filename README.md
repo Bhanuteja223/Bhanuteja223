@@ -1,93 +1,107 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Bhanuteja%20Thouti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20Engineer&descAlignY=58&descAlign=50" alt="header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhanuteja223&label=Profile%20views&color=7F00FF&style=for-the-badge" alt="profile views" />
-</p>
+# Hi, I'm Bhanuteja Thouti 👋
+### Full Stack Developer | Building clean, scalable, user-focused web experiences
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hey+there%2C+I%27m+Bhanuteja+Thouti+%F0%9F%91%8B;Software+Developer+Engineer;Building+scalable+web+experiences+with+clean+code;Python+%7C+React+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
+<p>
+  <a href="https://komarev.com/ghpvc/?username=Bhanuteja223&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Bhanuteja223&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Bhanuteja223?tab=followers">
+    <img src="https://img.shields.io/github/followers/Bhanuteja223?label=Followers&style=for-the-badge&color=1f6feb" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Bhanuteja223?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-71-111827?style=for-the-badge" alt="Public repositories" />
   </a>
 </p>
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js+%7C+Python;Building+practical+products+with+clean+architecture;Always+learning%2C+building%2C+and+improving" alt="Typing animation" />
 
-I'm **Bhanuteja Thouti**, a Software Developer Engineer with 1 year of experience building practical, user-focused applications across frontend and backend development. I enjoy turning ideas into reliable digital products using modern web technologies, clean architecture, and thoughtful UI.
+</div>
 
-I also enjoy sharing my journey through content creation on platforms like YouTube, Medium, and Instagram, where I explore tech, development, and personal growth.
+***
 
-- 🚀 Passionate about building full-stack applications that solve real problems.
-- 🎯 Focused on writing maintainable code and improving performance.
-- 🧠 Constantly learning, experimenting, and leveling up as a developer.
-- 📸 I blend software, creativity, and content creation into my personal brand.
+## 🚀 About Me
+
+I'm **Bhanuteja Thouti**, a full stack developer focused on building practical applications with clean UI, solid backend logic, and maintainable code.
+
+- 💼 Full stack developer with hands-on work across frontend and backend projects
+- 🧠 Interested in scalable product development, performance, and developer-friendly architecture
+- 🌱 Currently sharpening my skills in modern JavaScript ecosystems, APIs, and deployment workflows
+- 🎯 I enjoy turning ideas into polished digital experiences that solve real problems
+
+***
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend skills" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgresql" alt="Backend skills" />
 </p>
 
-### Tools
+### Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Tools and platforms" />
 </p>
 
-## 🌐 Social Media
+***
+
+## 📌 Featured Focus
+
+- Building full stack apps with strong API integration
+- Creating responsive interfaces with modern frontend tools
+- Writing readable, reusable, and production-friendly code
+- Exploring better workflows for deployment and developer productivity
+
+***
+
+## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.youtube.com/@Bhanuteja223">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@bhanutejathouti">
-    <img src="https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/mr__bhanu_teja__/">
-    <img src="https://img.shields.io/badge/Instagram-557%20followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/bhanutejathouti">
+  <a href="https://www.linkedin.com/in/bhanutejathouti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://bhanuteja-rho.vercel.app/">
+  <a href="https://www.instagram.com/mr__bhanu_teja__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://medium.com/@bhanutejathouti" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://bhanuteja-rho.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuteja223&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Top Languages" />
-</p>
+> You asked to remove YouTube, so it is not included in this premium version.
+
+***
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhanuteja223&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuteja223&layout=compact&theme=transparent&hide_border=true&langs_count=8&card_width=320" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhanuteja223&theme=transparent&hide_border=true" alt="GitHub streak" />
+</div>
+
+***
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhanuteja223&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhanuteja223&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub trophies" />
+</div>
 
-## 🤝 Let's Connect
+***
 
-<p>
-  <a href="https://www.linkedin.com/in/bhanutejathouti">LinkedIn</a> - 
-  <a href="https://www.instagram.com/mr__bhanu_teja__/">Instagram</a> - 
-  <a href="https://medium.com/@bhanutejathouti">Medium</a> - 
-  <a href="https://www.youtube.com/@Bhanuteja223">YouTube</a> - 
-  <a href="https://bhanuteja-rho.vercel.app/">Portfolio</a>
-</p>
+## ✨ Profile Note
 
-Thanks for visiting my profile — I'm always building, learning, and creating with purpose.
+Thanks for visiting my profile. I'm focused on building useful products, improving every day, and growing as a developer through consistent learning and execution.
