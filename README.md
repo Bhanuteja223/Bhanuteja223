@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/Bhanuteja223?label=Followers&style=for-the-badge&color=1f6feb" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js+%7C+Python;Building+Practical+Products;Always+Learning+and+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;Building+scalable+web+applications" />
 
 </div>
 
@@ -86,9 +86,9 @@ I'm **Bhanuteja Thouti**, a Full Stack Developer passionate about building moder
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhanuteja223&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuteja223&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuteja223&layout=compact&theme=github_dark&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuteja223&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
 
 </div>
 
@@ -96,7 +96,7 @@ I'm **Bhanuteja Thouti**, a Full Stack Developer passionate about building moder
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bhanuteja223&theme=github-dark-blue&hide_border=true"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhanuteja223&theme=github-dark-blue&hide_border=true&cache_seconds=1800)
 
 </div>
 
@@ -106,7 +106,7 @@ I'm **Bhanuteja Thouti**, a Full Stack Developer passionate about building moder
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhanuteja223&theme=algolia&no-frame=true&row=1&column=7"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bhanuteja223&theme=algolia&no-frame=true&row=1&column=7&cache_seconds=1800)
 
 </div>
 
@@ -116,7 +116,7 @@ I'm **Bhanuteja Thouti**, a Full Stack Developer passionate about building moder
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanuteja223&theme=github-compact&hide_border=true"/>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhanuteja223&theme=github-compact&hide_border=true&cache_seconds=1800)
 
 </div>
 
