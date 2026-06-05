@@ -82,36 +82,6 @@ I'm **Bhanuteja Thouti**, a Full Stack Developer passionate about building moder
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuteja223&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuteja223&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhanuteja223&theme=github-dark-blue&hide_border=true&cache_seconds=1800)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bhanuteja223&theme=algolia&no-frame=true&row=1&column=7&cache_seconds=1800)
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
